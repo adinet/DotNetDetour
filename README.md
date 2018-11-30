@@ -43,4 +43,7 @@ Console.WrtieLine(Get());
 ```
 第一次调用Get输出的值是"A",第二次是"BA"
 
+一个修改:
+https://github.com/bigbaldy1128/DotNetDetour/issues/4
+还未合并
 
